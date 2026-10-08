@@ -1,0 +1,12 @@
+{
+  "block.morecarrotmod.carrot_block": "卜块",
+  "block.morecarrotmod.two_level_carrot_block": "二级压缩卜块",
+  "block.morecarrotmod.three_level_carrot_block": "三级压缩卜块",
+  "block.morecarrotmod.gold_carrot_block": "金卜块",
+  "block.morecarrotmod.two_level_gold_carrot_block": "二级压缩金卜块",
+  "block.morecarrotmod.three_level_gold_carrot_block": "三级压缩金卜块",
+  "block.morecarrotmod.gold_carrot_block_ore": "神矿",
+  "item.morecarrotmod.carrot": "作者自己拍的照片，(私货)",
+  "item.morecarrotmod.ice_ether": "哇还有玉足",
+  "itemGroup.radish_group": "萝卜开会之地"
+}

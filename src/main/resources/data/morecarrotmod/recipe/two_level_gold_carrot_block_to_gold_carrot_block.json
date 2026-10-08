@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "morecarrotmod:two_level_gold_carrot_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "morecarrotmod:gold_carrot_block"
+  }
+}

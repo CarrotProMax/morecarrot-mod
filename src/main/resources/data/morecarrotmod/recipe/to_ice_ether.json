@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "morecarrotmod:two_level_carrot_block",
+    "*": "minecraft:diamond",
+    "&": "minecraft:respawn_anchor"
+  },
+  "pattern": [
+    "###",
+    "***",
+    "&&&"
+  ],
+  "result": {
+    "count": 1,
+    "id": "morecarrotmod:ice_ether"
+  }
+}

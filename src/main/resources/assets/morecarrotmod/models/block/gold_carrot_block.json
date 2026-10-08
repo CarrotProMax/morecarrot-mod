@@ -1,0 +1,6 @@
+{
+  "parent":"block/cube_all",
+  "textures": {
+    "all": "morecarrotmod:block/gold_carrot_block"
+  }
+}

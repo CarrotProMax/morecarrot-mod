@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "morecarrotmod:gold_carrot_block",
+    "morecarrotmod:carrot_block",
+    "morecarrotmod:gold_carrot_block_ore",
+    "morecarrotmod:two_level_gold_carrot_block",
+    "morecarrotmod:three_level_gold_carrot_block",
+    "morecarrotmod:two_level_carrot_block",
+    "morecarrotmod:three_level_carrot_block"
+  ]
+}

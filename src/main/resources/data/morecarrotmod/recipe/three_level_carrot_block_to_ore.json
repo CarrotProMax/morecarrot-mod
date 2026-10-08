@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "morecarrotmod:three_level_gold_carrot_block",
+    "*": "minecraft:gold_block"
+  },
+  "pattern": [
+    "***",
+    "*#*",
+    "***"
+  ],
+  "result": {
+    "count": 1,
+    "id": "morecarrotmod:gold_carrot_block_ore"
+  }
+}

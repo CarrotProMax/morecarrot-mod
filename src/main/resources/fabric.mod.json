@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "morecarrot-mod",
+	"version": "${version}",
+	"name": "MoreCarrot Mod",
+	"description": "这个模组包含了更多萝卜，课让大家更方便的运输萝卜(后面应该会加上土豆等)",
+	"authors": [
+		"bilibili 卜小卷        Carrot Pro"
+	],
+	"contact": {
+		"homepage": "https://github.com/CarrotProMax/MoreCarrotMC-Mod",
+		"sources": "https://github.com/CarrotProMax/MoreCarrotMC-Mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/morecarrotmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.carrot.MoreCarrotMod"
+		],
+		"client": [
+			"com.carrot.MoreCarrotModClient"
+		],
+		"fabric-datagen": [
+			"com.carrot.MoreCarrotModDataGenerator"
+		]
+	},
+	"mixins": [
+		"morecarrot-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

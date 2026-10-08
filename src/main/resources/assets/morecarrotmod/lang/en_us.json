@@ -1,0 +1,12 @@
+{
+  "block.morecarrotmod.carrot_block": "Carrot Block",
+  "block.morecarrotmod.two_level_carrot_block": "Two-Level Compressed Carrot Block",
+  "block.morecarrotmod.three_level_carrot_block": "Three-Level Compressed Carrot Block",
+  "block.morecarrotmod.gold_carrot_block": "Golden Carrot Block",
+  "block.morecarrotmod.two_level_gold_carrot_block": "Two-Level Compressed Golden Carrot Block",
+  "block.morecarrotmod.three_level_gold_carrot_block": "Three-Level Compressed Golden Carrot Block",
+  "block.morecarrotmod.gold_carrot_block_ore": "Golden Carrot Ore",
+  "item.morecarrotmod.carrot": "Author's Photo",
+  "item.morecarrotmod.ice_ether": "Ice Ether",
+  "itemGroup.radish_group": "Radish Party"
+}
